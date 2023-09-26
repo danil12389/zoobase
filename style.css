@@ -1,0 +1,33 @@
+body {
+    font-family: Playfair;
+    background-color: #F5F5DC;
+}
+
+.label {
+    font-size: 12em;
+    font-family: Croissant One, sans-serif;
+    border-radius: 20px;
+    text-shadow: 0 0 20px #FF0000, 0 0 30px #0000FF;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+
+}
+
+.navigation_item {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    font-size: 1em;
+}
